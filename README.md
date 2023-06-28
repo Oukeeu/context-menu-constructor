@@ -1,5 +1,4 @@
 # context-menu-constructor
-Web application-event for integration into a business process and automation of a business process on the Bitrix.ru platform
 
 This paper was done for the purpose of an introductory work placement in an IT company for shipbuilding in the first year of the University of St. Petersburg.
 
