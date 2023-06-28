@@ -1,4 +1,4 @@
-This paper was done for the purpose of an introductory work placement in an IT company for shipbuilding in the first year of the University of St. Petersburg.
+fThis paper was done for the purpose of an introductory work placement in an IT company for shipbuilding in the first year of the University of St. Petersburg.
 
 The application is a context menu builder. It allows you to create a hierarchy of parent and child elements, to which you can bind the created parametres.
 
